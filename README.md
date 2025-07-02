@@ -28,7 +28,7 @@
 
 ###  Format (Word Wrap) button
 
-![](./TextEditor/Screenshots/Format-word wrap.png) 
+![](./TextEditor/Screenshots/Format-word-wrap.png) 
 
 
 ###  Theme button
@@ -36,11 +36,11 @@
 
 | White						     | Blue                                           |
 | -------------------------------------------------- | ---------------------------------------------- |
-| ![](./TextEditor/Screenshots/Theme White.png)      | ![](./TextEditor/Screenshots/Theme Blue.png)   |
+| ![](./TextEditor/Screenshots/Theme-White.png)      | ![](./TextEditor/Screenshots/Theme-Blue.png)   |
 
 | Dark                                               | Pink                                           |
 | -------------------------------------------------- | ---------------------------------------------- |
-| ![](./TextEditor/Screenshots/Theme Dark.png)       | ![](./TextEditor/Screenshots/Theme Pink.png)   |
+| ![](./TextEditor/Screenshots/Theme-Dark.png)       | ![](./TextEditor/Screenshots/Theme-Pink.png)   |
 
 
 ###  Fonts button
