@@ -3,32 +3,32 @@
 
 ###  Main Version
 
-![](./TextEditor/screenshots/Main.png) 
+![](./TextEditor/Screenshots/Main.png) 
 
 
 ###  File button
 
-![](./TextEditor/screenshots/File.png) 
+![](./TextEditor/Screenshots/File.png) 
 
 
 ###  Find button
 
-![](./TextEditor/screenshots/Find.png) 
+![](./TextEditor/Screenshots/Find.png) 
 
 
 ###  Undo/Redo button
 
-![](./TextEditor/screenshots/Undo-Redo.png) 
+![](./TextEditor/Screenshots/Undo-Redo.png) 
 
 
 ###  Control (TypoFixer) button
 
-![](./TextEditor/screenshots/Control-TypoFixer.png) 
+![](./TextEditor/Screenshots/Control-TypoFixer.png) 
 
 
 ###  Format (Word Wrap) button
 
-![](./TextEditor/screenshots/Format-word wrap.png) 
+![](./TextEditor/Screenshots/Format-word wrap.png) 
 
 
 ###  Theme button
@@ -36,14 +36,14 @@
 
 | White						     | Blue                                           |
 | -------------------------------------------------- | ---------------------------------------------- |
-| ![](./TextEditor/screenshots/Theme White.png)      | ![](./TextEditor/screenshots/Theme Blue.png)   |
+| ![](./TextEditor/Screenshots/Theme White.png)      | ![](./TextEditor/Screenshots/Theme Blue.png)   |
 
 | Dark                                               | Pink                                           |
 | -------------------------------------------------- | ---------------------------------------------- |
-| ![](./TextEditor/screenshots/Theme Dark.png)       | ![](./TextEditor/screenshots/Theme Pink.png)   |
+| ![](./TextEditor/Screenshots/Theme Dark.png)       | ![](./TextEditor/Screenshots/Theme Pink.png)   |
 
 
 ###  Fonts button
 
-![](./TextEditor/screenshots/Fonts.png) 
+![](./TextEditor/Screenshots/Fonts.png) 
 
