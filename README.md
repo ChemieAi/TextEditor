@@ -1,5 +1,5 @@
 # TextEditor
- This is a text editor app. Works like .txt
+ This is a text editor app. Works like Notepad
 
 ###  Main Version
 
